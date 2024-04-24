@@ -1,10 +1,4 @@
-Hello there! I'm an undergraduate student in pure mathematics interested in data science and machine learning. 
 
-- 🌱 I’m currently learning **data analysis and machine learning**
-
-- 👯 I’m looking to collaborate on **data science projects**
-
-- 📫 How to reach me **https://www.linkedin.com/in/tuliopradoc/**
 
 
 <h3 align="left">Languages and Tools:</h3>
