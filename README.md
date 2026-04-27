@@ -7,9 +7,9 @@ Geoprocessing and spatial data infrastructure | Environmental monitoring and ana
 
 ---
 
-- ### Current Stack
+### Current Stack
 QGIS | GDAL / OGR | PostGIS | Python | R |
 Fortran (F90) | Linux | Git | PostgreSQL |
 
-- ### Current focus
+### Current focus
 Spatial data modeling and optimization | Integration between environmental databases and geospatial tools | Applied mathematics in environmental problems
